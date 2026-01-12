@@ -33,25 +33,36 @@ function Skills() {
 
         {/* Programming Languages */}
         <h3 className="text-2xl font-semibold mb-6 text-gray-300">
-          Programming Languages
+          Backend
         </h3>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 mb-12">
-          <SkillCard
-            img="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png"
-            title="Java"
-          />
-          <SkillCard
-            img="https://tse3.mm.bing.net/th/id/OIP.ywwpmPTIExm5SU8gUHesQwHaHa?pid=Api&P=0&h=180"
-            title="Python"
-          />
-          <SkillCard
-            img="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png"
-            title="C"
-          />
-          <SkillCard
-            img="https://tse2.mm.bing.net/th/id/OIP.J3gwgUR-rRHYusRAMC7K6AHaHy?pid=Api&P=0&h=180"
-            title="C++"
-          />
+         
+         <SkillCard
+  img="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png"
+  title="Java"
+/>
+<SkillCard
+  img="https://images.prismic.io/turing/65980c1c531ac2845a2726a7_java_jdbc_connection_ca4860e75b.webp?auto=format,compress"
+  title="JDBC"
+/>
+<SkillCard
+  img="http://blog.programacionytecnologia.com/wp-content/uploads/2023/06/Que-Es-el-FrameWork-Hibernate-de-JAVA.png"
+  title="Hibernate"
+/>
+<SkillCard
+  img="https://tse3.mm.bing.net/th/id/OIP.rXpxktVEo-vY6QMsl6tG3AHaDN?pid=Api&P=0&h=180"
+  title="Servlets"
+/>
+<SkillCard
+  img="https://huongdanjava.com/wp-content/uploads/2018/03/spring-boot-1.png"
+  title="Spring Framework"
+/>
+
+
+
+
+
+
         </div>
 
         {/* Database */}
