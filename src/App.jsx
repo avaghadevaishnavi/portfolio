@@ -19,7 +19,7 @@ function App() {
 
     {/* Download Resume Button */}
     <a
-      href="https://drive.google.com/file/d/1fCAvUufg0IxkWvlfuWqfyyeU9Fz88NHg/view?usp=sharing"
+      href="https://drive.google.com/file/d/1EDFHxXjwtSa5QCmmVTWcoEK57QUAbaf0/view"
       target="_blank"
       rel="noopener noreferrer"
       className="inline-block px-6 py-3 bg-gray-700 hover:bg-gray-800 text-white font-semibold rounded-lg shadow-md transition transform hover:scale-105"
