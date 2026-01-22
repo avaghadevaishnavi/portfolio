@@ -69,7 +69,7 @@ function Skills() {
         <h3 className="text-2xl font-semibold mb-6 text-gray-300">Database</h3>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 mb-12">
           <SkillCard
-            img="https://www.svgrepo.com/show/303251/mysql-logo.svg"
+            img="https://tse4.mm.bing.net/th/id/OIP.CuwHbVnfX2bHPfU6CLQaoAHaEJ?pid=Api&P=0&h=180"
             title="SQL"
           />
         </div>

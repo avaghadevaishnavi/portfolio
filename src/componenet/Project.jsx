@@ -85,6 +85,27 @@ function Project() {
         </li>
       </ul>
     </div>
+
+    <div className="border border-gray-700 p-6 rounded-lg shadow hover:shadow-lg bg-gray-800">
+  <h3 className="text-2xl font-semibold mb-4">
+    E-Commerce Web Application (React | Spring Boot)
+  </h3>
+  <ul className="list-disc list-inside space-y-2 text-gray-300">
+    <li>
+      Built a full-stack e-commerce web application using React for the frontend
+      and Spring Boot for backend REST APIs.
+    </li>
+    <li>
+      Implemented category-based product sections (Men/Women/Kids) with dynamic
+      data fetching using Axios and React Hooks.
+    </li>
+    <li>
+      Developed backend modules for item and section management using
+      JPA/Hibernate with PostgreSQL integration.
+    </li>
+  </ul>
+</div>
+
   </div>
 </section>
 
